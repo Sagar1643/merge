@@ -26,5 +26,6 @@
 <footer>
     <p>&copy; 2025 My Webpage. All rights reserved.</p>
 </footer>
+<p>Thank you for visiting my webpage! I created this space to share ideas, thoughts, and projects with the world. Feel free to explore, and don't hesitate to reach out if you have any feedback or suggestions!</p> 
 </body>
 </html>
